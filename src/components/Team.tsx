@@ -3,7 +3,7 @@ import { motion } from 'motion/react';
 const team = [
   {
     id: 1,
-    name: "שאולי יעקובסון",
+    name: "עמית לביאן",
     role: "בעלים ומייסד",
     image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1974&auto=format&fit=crop"
   },
